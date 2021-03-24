@@ -27,7 +27,7 @@ Download at your own risk.
 # Installation:
 
 1. At the project page, click `Clone or download` and select `Download ZIP`. It may take a while to download because it's very big (It's about 551MB compressed / download).
-2. When the file is finished downloading, find the `_placeholder_` directory and open it.
+2. When the file is finished downloading, find the `_classic_beta_` (this will likely change when prepatch launches) directory and open it.
 3. When you open the .zip file, it may have `WoWMapUprezTBC-master`. Inside that should have the contents `Interface` and a `README.md`.
 4. Simply drag-drop to merge the `interface` folder in your WoW folder and replace the currently existing one. Below is a gif showing what is done.
 
