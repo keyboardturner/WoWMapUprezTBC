@@ -14,7 +14,7 @@ Last Update:  Patch 2.5.1.38043
 <!-- BFA → Shadowlands Patch: link -->
 <!-- Only install this if you are updating from patch 8.3.0 to 9.0.n -->
 
-Approximate size of project: PH GB
+Approximate size of project: 3.68GB
 
 Download at your own risk.
 
