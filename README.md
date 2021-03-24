@@ -5,14 +5,16 @@ This project does not include any maps which are already 4k resolution, such as 
 
 [Looking for the WoW Retail version?](https://github.com/keyboardturner/WoWMapUprez)
 
-Last Update:  Patch 1.13.3.32887
+[Or perhaps TBC Classic?](https://github.com/keyboardturner/WoWMapUprezTBC)
+
+Last Update:  Patch 2.5.1.38043
 
 <!-- What's new in Shadowlands Patch 9.0.n? -->
 <!-- dropdown -->
 <!-- BFA → Shadowlands Patch: link -->
 <!-- Only install this if you are updating from patch 8.3.0 to 9.0.n -->
 
-Approximate size of project: 1.63GB
+Approximate size of project: PH GB
 
 Download at your own risk.
 
@@ -25,8 +27,8 @@ Download at your own risk.
 # Installation:
 
 1. At the project page, click `Clone or download` and select `Download ZIP`. It may take a while to download because it's very big (It's about 551MB compressed / download).
-2. When the file is finished downloading, find the `_classic_` directory and open it.
-3. When you open the .zip file, it may have `WoWMapUprezClassic-master`. Inside that should have the contents `Interface` and a `README.md`.
+2. When the file is finished downloading, find the `_placeholder_` directory and open it.
+3. When you open the .zip file, it may have `WoWMapUprezTBC-master`. Inside that should have the contents `Interface` and a `README.md`.
 4. Simply drag-drop to merge the `interface` folder in your WoW folder and replace the currently existing one. Below is a gif showing what is done.
 
 If you're updating to a new version, make sure to approve files being overwritten. This process can take some time to complete.
@@ -53,6 +55,9 @@ If you see any weird glitches, forgotten maps (which are listed below but aren't
 	Stormwind
 	ThunderBluff
 	Undercity
+	Silvermoon
+	TheExodar
+	Shattrath
 </details>
 <details>
 	<summary>Continents</summary>
@@ -60,6 +65,8 @@ If you see any weird glitches, forgotten maps (which are listed below but aren't
 	Azeroth (Eastern Kingdoms)
 	Kalimdor
 	World
+	Outlands
+	Cosmic
 </details>
 <details>
 	<summary>Eastern Kingdoms</summary>
@@ -86,6 +93,8 @@ If you see any weird glitches, forgotten maps (which are listed below but aren't
 	WesternPlaguelands
 	Westfall
 	Wetlands
+	Eversong
+	Ghostlands
 </details>
 <details>
 	<summary>Kalimdor</summary>
@@ -108,6 +117,19 @@ If you see any weird glitches, forgotten maps (which are listed below but aren't
 	Teldrassil
 	Thousandneedles
 	Winterspring
+	Azuremyst
+	Bloodmyst
+</details>
+<details>
+	<summary>Outlands</summary>
+	
+	BladesEdgeMountains
+	Hellfire
+	Nagrand
+	Netherstorm
+	Shadowmoon
+	Terokkar
+	Zangarmarsh
 </details>
 <details>
 	<summary>Battle Grounds</summary>
@@ -115,21 +137,22 @@ If you see any weird glitches, forgotten maps (which are listed below but aren't
 	AlteracValley
 	ArathiBasin
 	WarsongGulch
+	NetherstormArena (Eye of the Storm)
 </details>
 
 # Q&A:
 
 Q: "Where are the Raid / Dungeon maps?"
 
-> A: Those did not exist in Classic and it would be very difficult to implement. Technically possible with very complicated coding and math skills, but not something I wish to tackle. If somebody else wants to make the code basis, I can create the maps. Otherwise, no.
+> A: Those did not exist in Classic nor in Burning Crusade and it would be very difficult to implement. Technically possible with very complicated coding and math skills, but not something I wish to tackle. If somebody else wants to make the code basis, I can create the maps. Otherwise, no.
 
 Q: "How long did this project take?"
 
-> A: Approximately 17 hours to upscale & convert. The process is automated, so my own personal time is about 2 hours. I make my laptop take breaks so not to stress the hardware too long.
+> A: Approximately 35 minutes to upscale & convert. The process is automated, so my own personal time is about 10 minutes. I am using a new computer, which drasatically reduced the time needed to uprez.
 
-Q: "What are the specs of the laptop?"
+Q: "What are the specs of the new computer?"
 
-> A: [i7-4720HQ CPU @ 2.60GHz](https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i7-4720HQ+%40+2.60GHz&id=2448), 16 GB DDR3 RAM, [GTX 960M](https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+960M&id=3176)+Intel(R) HD Graphics 4600. It's moderately powerful, a bit on the low/cheap end in regards to gaming laptops. It's sufficed for the past 5 years or so. I would get a better machine, but at the time of writing this I'm entrenched in college work.
+> A: [AMD Ryzen 7 1700X](https://www.cpubenchmark.net/cpu.php?cpu=AMD+Ryzen+7+1700X&id=2969), 32 GB DDR3 RAM, [GTX 1060](https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1060&id=3548). It's decently powerful and was gifted to me by a friend (which I've very thankful for in this GPU shortage time). It has boosted my working process by quite a decent amount.
 
 Q: "Why was this made?"
 
@@ -152,3 +175,5 @@ Q: "Do you work for Blizzard?"
 [Twitter](https://twitter.com/keyboardturn)
 
 I admin the [WoW AddOn Discord](http://discord.gg/sXy46yZ)
+
+Also I got around to making a [Patreon](https://www.patreon.com/keyboardturner)
