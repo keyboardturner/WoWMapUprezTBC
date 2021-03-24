@@ -5,7 +5,7 @@ This project does not include any maps which are already 4k resolution, such as 
 
 [Looking for the WoW Retail version?](https://github.com/keyboardturner/WoWMapUprez)
 
-[Or perhaps TBC Classic?](https://github.com/keyboardturner/WoWMapUprezTBC)
+[Or perhaps Classic?](https://github.com/keyboardturner/WoWMapUprezClassic)
 
 Last Update:  Patch 2.5.1.38043
 
