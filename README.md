@@ -1,4 +1,4 @@
-# WoWMapUprezClassic
+# WoWMapUprezTBC
 A project to uprez every single low quality map in WoW using SRCNNs. All fully constructed maps will result in 4k resolution.
 
 This project does not include any maps which are already 4k resolution, such as the ones pertaining to Battle for Azeroth.
